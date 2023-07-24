@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_rev - prints a string in stdout in reverse
- i* @s: string to print
+ * _puts - prints a string in stdout in reverse
+ * @str: string to print
  *
  * Return: void
  */
